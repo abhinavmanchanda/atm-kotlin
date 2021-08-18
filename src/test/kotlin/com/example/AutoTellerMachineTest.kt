@@ -6,6 +6,6 @@ class AutoTellerMachineTest: StringSpec({
     "should print a receipt if money is withdrawn successfully" {
     }
 
-    "should throw exception if banking service throws an exception" {
+    "should print an error if banking service throws an exception" {
     }
 })
